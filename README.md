@@ -12,7 +12,7 @@
  <p align="center">
 
   <a href="https://github.com/ASITHA-MD/ASITHA-BOT">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FASITHA-MD%2FASITHA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FASITHA-MD%2FASITHA-BOT&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
   <a href="https://github.com/ASITHA-MD/ASITHA-BOT">
@@ -72,7 +72,7 @@
 <b>DEPLOY</b>
 </br>
 </br>
- [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD-V2)
+ [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-BOT)
   
 [![nima](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
