@@ -16,7 +16,7 @@
   
   </a>
   <a href="https://github.com/ASITHA-MD/ASITHA-BOT">
-    <img src="https://img.shields.io/github/forks/ASITHA-MD/ASITHA-BOY?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/ASITHA-MD/ASITHA-BOT?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/ASITHA-MD/ASITHA-BOT">
