@@ -83,38 +83,5 @@
 <hr>
 
 <b>COPY WORKFLOW CODE</b></br>
-```
-name: Node.js CI
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
+<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z/499"><img src="https://img.shields.io/badge/COPY%20WORKFLOW%20CODE-blue"  width="350"></a>
